@@ -11,5 +11,5 @@
     <string name="verx">Перелет</string>
     <string name="pobeda">Долет</string>
     <string name="errorr">Для начала игры введите число</string>
-    <string name="errorrr">Число должно принимать значения от 1 до 100</string>
+    <string name="errorrr">Число должно принимать значение, соответствующее уровню сложности</string>
 </resources>
