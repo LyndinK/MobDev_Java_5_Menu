@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_new"
+        android:title="Новая игра">
+    </item>
+    <item
+        android:id="@+id/menu_exit"
+        android:title="Выход">
+    </item>
+    <item
+        android:id="@+id/menu_lvl1"
+        android:title="Уровень 1">
+    </item>
+    <item
+        android:id="@+id/menu_lvl2"
+        android:title="Уровень 2">
+    </item>
+
+    <item
+        android:id="@+id/lyndin"
+        android:title="Лындин">
+    </item>
+    <item
+        android:id="@+id/kirill"
+        android:title="Кирилл">
+    </item>
+    <item
+        android:id="@+id/antonovich"
+        android:orderInCategory="3"
+        android:title="Антонович">
+    </item>
+
+</menu>

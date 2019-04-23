@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MenuDemoJava</string>
+    <string name="ex">Для того, чтобы выйти, нажмите кнопку ВЫХОД в меню :D</string>
 </resources>

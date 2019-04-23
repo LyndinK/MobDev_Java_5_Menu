@@ -10,6 +10,14 @@
         android:title="edit">
     </item>
     <item
+        android:id="@+id/lyndin"
+        android:title="Лындин">
+    </item>
+    <item
+        android:id="@+id/kirill"
+        android:title="Кирилл">
+    </item>
+    <item
         android:id="@+id/menu_delete"
         android:orderInCategory="3"
         android:title="delete">
@@ -27,9 +35,14 @@
             android:title="paste">
         </item>
         <item
-            android:id="@+id/menu_exit"
+            android:id="@+id/exit"
             android:orderInCategory="4"
-            android:title="exit">
+            android:title="ВЫХОД">
+        </item>
+        <item
+            android:id="@+id/antonovich"
+            android:orderInCategory="4"
+            android:title="Антонович">
         </item>
     </group>
 </menu>

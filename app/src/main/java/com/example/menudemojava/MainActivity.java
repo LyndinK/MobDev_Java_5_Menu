@@ -45,6 +45,14 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // TODO Auto-generated method stub
+
+
+        if(item.getItemId()== R.id.exit){
+            moveTaskToBack(true);
+            android.os.Process.killProcess(android.os.Process.myPid());
+            System.exit(1);
+        }
+
         StringBuilder sb = new StringBuilder();
 
         // Выведем в TextView информацию о нажатом пункте меню
